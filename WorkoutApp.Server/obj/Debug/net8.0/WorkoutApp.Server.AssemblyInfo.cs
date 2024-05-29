@@ -10,7 +10,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-WorkoutApp.Server-8b533602-fe3c-485d-b7dc-26981acc0b02")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkoutApp.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
